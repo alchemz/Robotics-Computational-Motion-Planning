@@ -1,3 +1,4 @@
+%main loop
 while true
 
 	% draw current map
